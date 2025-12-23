@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "夢の蕾",
+  "base_artist": "レミオロメン",
+  "createdAt": "2025-12-23T03:23:21.086681Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢の蕾",
+      "artist": "レミオロメン",
+      "has_synced": true,
+      "path": "select/01_夢の蕾_レミオロメン.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢の蕾",
+      "artist": "THREE",
+      "has_synced": false,
+      "path": "select/02_夢の蕾_THREE.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢の蕾",
+      "artist": "THREE (花守ゆみり、種田梨沙、佐倉綾音)",
+      "has_synced": false,
+      "path": "select/03_夢の蕾_THREE_(花守ゆみり、種田梨沙、佐倉綾音).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夢の蕾",
+      "artist": "Remioromen",
+      "has_synced": true,
+      "path": "select/04_夢の蕾_Remioromen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢の蕾",
+      "artist": "レミオロメン",
+      "has_synced": false,
+      "path": "select/pl_01_夢の蕾_レミオロメン.txt"
+    }
+  ]
+}
